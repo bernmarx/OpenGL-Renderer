@@ -1,0 +1,9 @@
+2022-01-15 17:32:45,1 Initialized log with config from "log/config.log"
+2022-01-15 17:32:45,7 [INFO]	Window successfully created
+2022-01-15 17:32:45,9 [INFO]	GLAD successfully initialized
+2022-01-15 17:32:45,0 [INFO]	Debugging set up
+2022-01-15 17:32:45,5 [INFO]	Camera successfully initialized
+2022-01-15 17:32:46,2 [INFO]	Successfully loaded a model
+2022-01-15 17:32:53,8 [INFO]	Successfully loaded a model
+2022-01-15 17:32:58,2 Finished logging
+
